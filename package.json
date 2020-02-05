@@ -1,6 +1,9 @@
 {
-  "name": "angular-promise-extras",
-  "version": "0.1.8",
+  "name": "@cosium-fork/angular-promise-extras",
+  "version": "0.1.80",
+  "publishConfig": {
+    "registry": "https://nexus.cosium.dev/repository/npm-releases/"
+  },
   "description": "Adds some extra functions to $q like $q.allSettled",
   "main": "./angular-promise-extras.js",
   "scripts": {
