@@ -1,6 +1,6 @@
 {
   "name": "@cosium-fork/angular-promise-extras",
-  "version": "0.1.80",
+  "version": "0.1.81",
   "publishConfig": {
     "registry": "https://nexus.cosium.dev/repository/npm-releases/"
   },
