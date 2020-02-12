@@ -10,6 +10,9 @@
     "test": "bower install && karma start --single-run",
     "build": "npm install"
   },
+  "files": [
+    "angular-promise-extras.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/ohjames/angular-promise-extras.git"
